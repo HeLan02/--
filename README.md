@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 教室空闲状态查询系统
 
 按 `教室空闲状态查询系统.txt` 方案实现：教学楼/教室管理、课程表导入（Excel）、空闲教室查询、自习室推荐、教室预约与审批。
@@ -83,3 +84,6 @@ mvn spring-boot:run -Dspring-boot.run.profiles=mysql
 7. `weekEnd`
 8. `teacher`
 
+=======
+# -
+>>>>>>> 27ef1246e0d6c2a411fe955717ba4acf6eacd6c8
